@@ -2,7 +2,7 @@
 
 ## Table of contents
 -[Project members](#project-members)
--[API Endpoints]()
+-[API Endpoints](#api-endpoints)
 
 ## Project description
 The main idea of project will be written after practice lesson.
